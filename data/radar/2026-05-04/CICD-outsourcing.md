@@ -1,3 +1,9 @@
+---
+title: "CI/CD Outsourcing"
+ring: assess
+quadrant: developer-platform
+tags: []
+---
 CI/CD outsourcing is the practice of hiring external experts or specialized partners to design, build, maintain, and manage the automated pipelines that compile, test, and deploy software updates. This service allows organizations—ranging from startups to large enterprises—to accelerate development cycles, improve code quality, and offload complex DevOps tasks without needing in-house expertise.Core Components of CI/CD Outsourcing
 
 Outsourced partners typically manage the following stages:
