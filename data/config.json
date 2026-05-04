@@ -50,20 +50,20 @@
   ],
   "rings": [
     {
+      "id": "mature",
+      "title": "Mature & Commodity",
+      "description": "",
+      "color": "#588157",
+      "radius": 0.22,
+      "strokeWidth": 5
+    },
+    {
       "id": "adopt",
       "title": "Adopt",
       "description": "",
       "color": "#588157",
       "radius": 0.5,
       "strokeWidth": 5
-    },
-    {
-      "id": "trial",
-      "title": "Trial",
-      "description": "",
-      "color": "#457b9d",
-      "radius": 0.69,
-      "strokeWidth": 3
     },
     {
       "id": "assess",
@@ -74,8 +74,8 @@
       "strokeWidth": 2
     },
     {
-      "id": "hold",
-      "title": "Hold",
+      "id": "monitor",
+      "title": "Monitor",
       "description": "",
       "color": "#d62828",
       "radius": 1,
