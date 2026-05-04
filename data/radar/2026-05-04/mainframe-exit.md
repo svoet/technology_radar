@@ -1,7 +1,7 @@
 ---
 title: "Mainframe exit"
 ring: adopt
-quadrant: developer platform
+quadrant: developer-platform
 tags: []
 ---
 A mainframe exit (or mainframe migration/modernization) is a strategic, multi-year project designed to move workloads, applications, and data off aging legacy mainframe systems (such as IBM z/OS) onto modern platforms, typically cloud-native environments or distributed x86 servers.
