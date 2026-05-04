@@ -14,20 +14,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            **/node_modules
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm
+      
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@master
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: 'npm'
+          node-version: "lts/*"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
         run: npm install
+
+      - run: npm ci
+
+      - name: build data
+        run: npm run build:data
 
       - name: Build with Next.js
         run: npm run build
