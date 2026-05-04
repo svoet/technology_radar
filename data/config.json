@@ -24,27 +24,27 @@
   },
   "quadrants": [
     {
-      "id": "services",
-      "title": "Transformative Services",
-      "description": "Services that are revolutionizing the way we interact with technology, offering innovative solutions and transforming industries.",
+      "id": "cloud",
+      "title": "Infrastructure as a Service (IaaS) Cloud",
+      "description": "Cloud computing services that provide virtualized computing resources over the internet, enabling scalable and flexible infrastructure management.",
       "color": "#a3b18a"
     },
     {
-      "id": "methods-and-patterns",
-      "title": "Methods & Patterns",
-      "description": "Key software development methods and design patterns, covering everything from continuous integration and testing to architecture.",
+      "id": "operations",
+      "title": "IT Operations",
+      "description": "Practices and tools for managing and maintaining IT infrastructure, ensuring reliability, performance, and security of systems and applications.",
       "color": "#588157"
     },
     {
-      "id": "platforms-and-operations",
-      "title": "Platforms & Operations",
-      "description": "Technologies and tools for software and infrastructure operations, including platforms and services for managing and scaling applications.",
+      "id": "developer-platform",
+      "title": "Developer Platforms",
+      "description": "Platforms and frameworks that provide developers with tools, libraries, and environments to build, test, and deploy applications efficiently.",
       "color": "#3f633e"
     },
     {
-      "id": "tools",
-      "title": "Tools",
-      "description": "A range of software tools, from simple productivity enhancers to comprehensive project solutions, catering to various project needs.",
+      "id": "data",
+      "title": "Data & Analytics",
+      "description": "Tools and technologies for collecting, processing, and analyzing data to drive informed decision-making.",
       "color": "#40713f"
     }
   ],
