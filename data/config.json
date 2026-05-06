@@ -24,27 +24,27 @@
   },
   "quadrants": [
     {
-      "id": "cloud",
-      "title": "Infrastructure as a Service (IaaS) Cloud",
-      "description": "Cloud computing services that provide virtualized computing resources over the internet, enabling scalable and flexible infrastructure management.",
+      "id": "external",
+      "title": "External forces",
+      "description": "This quadrant tracks the 'Outside-In' pressures that define your constraints. It includes evolving compliance mandates (privacy, sustainability, and sovereignty), shifts in the global talent market, and vendor landscape volatility.",
       "color": "#a3b18a"
     },
     {
       "id": "operations",
-      "title": "IT Operations",
+      "title": "Operating model",
       "description": "Practices and tools for managing and maintaining IT infrastructure, ensuring reliability, performance, and security of systems and applications.",
       "color": "#588157"
     },
     {
-      "id": "developer-platform",
-      "title": "Developer Platforms",
-      "description": "Platforms and frameworks that provide developers with tools, libraries, and environments to build, test, and deploy applications efficiently.",
+      "id": "technology",
+      "title": "Technology & Tools",
+      "description": "tracks the specific technical tools, architectures, and platforms that provide new capabilities to the business.",
       "color": "#3f633e"
     },
     {
-      "id": "data",
-      "title": "Data & Analytics",
-      "description": "Tools and technologies for collecting, processing, and analyzing data to drive informed decision-making.",
+      "id": "strategy",
+      "title": "Strategy and Architecture",
+      "description": "Strategies and Architecture trends impacting how the IT Operating model is designed and operated.",
       "color": "#40713f"
     }
   ],

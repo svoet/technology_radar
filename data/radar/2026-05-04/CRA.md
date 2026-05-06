@@ -1,7 +1,7 @@
 ---
 title: "Cyber Resilience Act(CRA) impact"
 ring: adopt
-quadrant: developer-platform
+quadrant: external
 tags: [project,security]
 ---
 The EU Cyber Resilience Act (CRA) mandates strict cybersecurity requirements for digital products (IoT, software, hardware) sold in Europe, requiring "security by design" throughout the product lifecycle, including mandatory vulnerability reporting within 24 hours starting September 2026. It forces manufacturers to adopt secure development, handle 3rd party components, and provide support, with non-compliance fines up to €15 million or 2.5% of global turnover.

@@ -1,7 +1,7 @@
 ---
 title: "LLM to IaC"
 ring: monitor
-quadrant: cloud
+quadrant: operations
 tags: [ai, iac]
 ---
 

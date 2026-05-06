@@ -1,7 +1,7 @@
 ---
 title: "Zero Trust & SaSe"
 ring: mature
-quadrant: cloud
+quadrant: technology
 tags: [networking]
 ---
 Universal Zero Trust (ZTNA) & SASE Maturity

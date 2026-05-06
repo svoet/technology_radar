@@ -1,8 +1,8 @@
 ---
 title: "ITFM and TBM"
 ring: adopt
-quadrant: operations
-tags: [project]
+quadrant: strategy
+tags: [cloud,apps]
 ---
 ITFM (IT Financial Management) and TBM (Technology Business Management) are disciplines designed to make IT spending transparent and aligned with business value. ITFM focuses on controlling budgets, costs, and chargebacks, while TBM is a broader framework optimizing IT investment for strategic business outcomes, including cost transparency and performance management.
 Key Aspects of ITFM/TBM:
