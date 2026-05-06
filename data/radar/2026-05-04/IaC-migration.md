@@ -1,7 +1,7 @@
 ---
 title: "IaC Migration"
 ring: adopt
-quadrant: strategy
+quadrant: operations
 tags: [cloud, devops]
 ---
 
