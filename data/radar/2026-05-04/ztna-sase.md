@@ -2,7 +2,7 @@
 title: "Zero Trust & SaSe"
 ring: mature
 quadrant: technology
-tags: [networking]
+tags: [networking,security]
 ---
 Universal Zero Trust (ZTNA) & SASE Maturity
 

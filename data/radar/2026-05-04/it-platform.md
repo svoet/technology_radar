@@ -2,7 +2,7 @@
 title: "IT Platform Strategy"
 ring: assess
 quadrant: strategy
-tags: []
+tags: [AI,security,workplace,data]
 ---
 An IT Platform strategy is a business and technology framework that creates long-term value by facilitating interactions between users, partners, and systems, often creating network effects. It moves from isolated applications to shared, scalable digital foundations—like API-driven infrastructures, app stores, or marketplaces—that boost efficiency, speed up development, and enable ecosystem growth.
 Key Components & Concepts

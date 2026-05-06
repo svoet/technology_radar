@@ -2,7 +2,7 @@
 title: "LLMOps"
 ring: assess
 quadrant: operations
-tags: [ai]
+tags: [AI]
 ---
 
 LLMOps, or large language model operations, refers to the practices and processes involved in managing and operating large language models (LLMs). LLMs are artificial intelligence (AI) models trained on vast datasets of text and code, enabling them to perform various language-related tasks, such as text generation, translation, and question answering.

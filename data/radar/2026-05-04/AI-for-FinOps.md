@@ -2,7 +2,7 @@
 title: "AI for FinOps"
 ring: assess
 quadrant: operations
-tags: [ai,finops,cloud]
+tags: [AI,finops,cloud]
 ---
 AI-enhanced FinOps represents a paradigm shift from manual, reactive cloud cost management to autonomous, proactive financial optimization, using artificial intelligence to manage the increasing complexity of cloud spending. Organizations with mature FinOps practices are moving beyond basic cost-tracking to leverage AI for real-time visibility, automated governance, and predictive, "value-led" insights that turn cloud spending into a growth engine.
 Key AI FinOps Transformation Areas
