@@ -2,7 +2,7 @@
 title: "Developer Platform strategy"
 ring: adopt
 quadrant: strategy
-tags: []
+tags: [devops]
 ---
 A Developer Platform (IDP) is a centralized, self-service software foundation built by platform engineering teams to streamline software delivery. It aggregates tools, services, and infrastructure, allowing developers to independently deploy and manage applications, reducing cognitive load and accelerating workflows through "golden paths".
 

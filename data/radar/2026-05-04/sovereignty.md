@@ -2,7 +2,7 @@
 title: "IT and Data Sovereignty"
 ring: assess
 quadrant: external
-tags: []
+tags: [cloud, apps, data]
 ---
 IT sovereignty is the ability of an organization or nation to control its own digital destiny, ensuring data, software, and infrastructure are not subject to foreign laws, interference, or dependency on single external providers. It encompasses data residency, technical control, and operational independence, often focusing on cloud compliance and security.
 Key components of IT sovereignty include:

@@ -2,7 +2,7 @@
 title: "Application Containerization"
 ring: adopt
 quadrant: strategy
-tags: [cloud,devops,apps]
+tags: [cloud,devops,apps,modernization]
 ---
 Application containerization is a software development technique that packages an application's code, libraries, dependencies, and configuration files together into a single, lightweight executable unit called a "container". These containers run in isolated user spaces, ensuring portability, consistency across environments (development, testing, production), and increased efficiency compared to virtual machines.
 
