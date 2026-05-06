@@ -2,7 +2,7 @@
 title: "ESG Reporting regulation (CSRD)"
 ring: monitor
 quadrant: external
-tags: [project,security]
+tags: [security]
 ---
 The Corporate Sustainability Reporting Directive (CSRD) is an EU law requiring companies to publish detailed reports on their environmental and social impact, aligning sustainability reporting with financial reporting. It forces transparency on ESG (Environmental, Social, and Governance) issues, replacing the NFRD to standardize disclosures for roughly 50,000 entities.
 Usage Examples and Requirements
