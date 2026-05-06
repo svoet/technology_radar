@@ -2,7 +2,7 @@
 title: "IaC Maturity"
 ring: adopt
 quadrant: operations
-tags: [devops,cloud]
+tags: [devops,cloud,security]
 ---
 
 Infrastructure as code is becoming the standard model for Cloud Operations. Organisations who have adopted IaC are looking to increase the maturity of their operations. Topics are:
