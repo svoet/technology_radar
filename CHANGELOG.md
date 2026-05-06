@@ -1,5 +1,38 @@
 # Changelog
 
+## Version v4.6.2 (2026-05-06)
+
+### Ops and CI/CD
+
+- build issues (ba095062)
+
+### Chores and tidying
+
+- prepare v4.7.0 (3d14baef)
+
+### Other
+
+- content update (e4221255)
+- remove tags finops and project (f44a65d2)
+- content update (19cca9f9)
+- content changes (ee8a039b)
+- content updates (4580b47a)
+- content updates (d94fbc5e)
+- switch the quadrants (b6a66853)
+- continuous compliance (24107e8d)
+- typo (972cad37)
+- agentic ai and quantum compute added (4222735d)
+- remove markdown from footer (b50b8c0c)
+- add sovereignty (286cead5)
+- footer link to AOE project (fb4db161)
+- content (a6d702fd)
+- content (a54d4f3e)
+- content and logo (537e35db)
+- content from symens onenote (483406eb)
+- first topics (b886476c)
+- initial config (7384aade)
+- Modify workflow for Tech Radar deployment (ebdc56a7)
+
 ## Version v4.6.1 (2025-03-26)
 
 ### Fixes
