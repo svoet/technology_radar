@@ -1,5 +1,5 @@
 ---
-title: "IaC Migration"
+title: "Infrastructure as Code (IaC)"
 ring: adopt
 quadrant: operations
 tags: [cloud, devops]
